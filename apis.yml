@@ -1,7 +1,12 @@
 aid: noble-energy
-url: https://raw.githubusercontent.com/api-evangelist/noble-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/noble-energy/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.noble-energy.com
+description: >-
+  Noble Energy was an independent oil and natural gas exploration and production company
+  with operations in the United States and several international locations before
+  being acquired by Chevron.
