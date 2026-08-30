@@ -39,6 +39,11 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/chevron/
+    name: Chevron
+    x-relationship: acquired
+    x-evidence: "Noble Energy was an independent oil and natural gas exploration and production company with operations in the United States and several international locations before being acquired by Chevron in 2020."
   - type: LinkedIn
     url: https://www.linkedin.com/company/noble-energy
   - type: Website
