@@ -1,7 +1,9 @@
 ---
 title: Noble Energy Announces Entry Into Eagle Ford And ...
 url: https://www.prnewswire.com/news-releases/noble-energy-announces-entry-into-eagle-ford-and-permian-through-acquisition-of-rosetta-resources-300080785.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Noble Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google
