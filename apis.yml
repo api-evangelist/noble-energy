@@ -51,3 +51,9 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-status: acquired
+x-acquired-by: chevron
+x-parent: chevron
+x-acquired-date: '2020-10'
+x-status-source: "https://inspectioneering.com/news/2020-10-05/9380/chevron-completes-acquisition-of-noble-energy"
+x-status-evidence: "Chevron completed its all-stock acquisition of Noble Energy on 2020-10-05; nobleenergyinc.com no longer resolves (roadmap#812)"
